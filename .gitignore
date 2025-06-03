@@ -1,0 +1,15 @@
+# Ignorar arquivos de configuração
+*.log
+*.tmp
+*.db
+*.xlsx
+*.csv
+*.xls
+
+# Ignorar diretórios de dependências
+node_modules/
+vendor/
+env_fichas_med_maceio/
+old-gregorio/
+# Ignorar arquivos de ambiente
+.env
